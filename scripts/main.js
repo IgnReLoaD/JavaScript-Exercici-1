@@ -1,1 +1,4 @@
-console.log("hola mundo");
+function printarMensaje(){      
+    console.log("hola mundo");
+}
+ 
